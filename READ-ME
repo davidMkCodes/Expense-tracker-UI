@@ -1,0 +1,10 @@
+A simple UI for an expense tracker
+
+Features:
+- Create an expense (Title, amount, date)
+- View expenses, filtered by year
+- View activity level for each month within the year
+- Change title of displayed expenses
+
+Technologies:
+- React.js
